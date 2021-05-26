@@ -1,0 +1,23 @@
+{
+  "name": "deshop-token",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Skizzi1/DeShop-token.git"
+  },
+  "author": "James Bondoc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Skizzi1/DeShop-token/issues"
+  },
+  "homepage": "https://github.com/Skizzi1/DeShop-token#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.0.0",
+    "solc": "^0.8.0"
+  }
+}
